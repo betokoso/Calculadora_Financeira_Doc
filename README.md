@@ -41,8 +41,8 @@ Essa abordagem combina análise de problema, modelagem, tratamento de dados e co
 4. Escolha o tipo de investimento e configure rentabilidade, aportes, retiradas e incidência de imposto.
 5. Execute a simulação e analise os indicadores, gráficos e evolução patrimonial mensal.
 ## Documentação complementar
-- [Metodologia de cálculo](docs/metodologia.md)
-- [Premissas, simplificações e limitações](docs/limitacoes-do-modelo.md)
+- [Metodologia de cálculo](metodologia.md)
+- [Premissas, simplificações e limitações](limitacoes-do-modelo.md)
 ## Sobre o projeto
 Projeto independente desenvolvido por **Norberto Koso**, com foco em transformar uma questão prática de planejamento financeiro em uma aplicação interativa baseada em regras de negócio, cálculos e visualização de dados.
 - **Aplicação:** https://calculadorafinanceira.streamlit.app/
