@@ -95,7 +95,7 @@ A aplicação está organizada em três módulos com responsabilidades distintas
 | `Calculadora.py` | Núcleo de cálculo: regras de negócio, evolução patrimonial mensal, aportes, retiradas, rentabilidade e estimativa de imposto. |
 | `API.py` | Integração com fontes de indicadores econômicos, incluindo obtenção de valores de referência de Selic e inflação. |
 
-**Observação:** este repositório concentra a documentação do projeto. Os três módulos acima correspondem à estrutura do código da aplicação e não devem ser confundidos com os arquivos Markdown e as imagens armazenados neste repositório.
+**Organização dos repositórios:** este repositório público (`Calculadora_Financeira_Doc`) reúne a documentação, a metodologia de cálculo, as limitações do modelo e as imagens da aplicação. O código-fonte da aplicação está em um repositório privado, `Calculadora_Financeira`, e não está disponibilizado publicamente. Os módulos `App.py`, `Calculadora.py` e `API.py` representam a estrutura do código da aplicação, não arquivos presentes neste repositório de documentação. A aplicação pode ser explorada [online](https://calculadorafinanceira.streamlit.app/).
 
 ## Como utilizar
 
