@@ -107,6 +107,7 @@ A aplicação está organizada em três módulos com responsabilidades distintas
 
 ## Documentação complementar
 
+- [Memória de cálculo e rastreabilidade](memoria-de-calculo.md) — descreve as fórmulas implementadas, a lógica entre as colunas, os ciclos de IR, as regras de aportes e retiradas e formas de conferir a consistência dos resultados.
 - [Metodologia de cálculo](metodologia.md) — explica a lógica geral e as premissas utilizadas.
 - [Premissas, simplificações e limitações](limitacoes-do-modelo.md) — detalha aproximações, pontos que não são modelados e possíveis evoluções.
 
